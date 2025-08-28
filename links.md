@@ -19,6 +19,7 @@
 - (Переменные в PHP)[https://puzzleweb.ru/php/02_variables.php]
 - (Операторы)[http://php.net/manual/ru/language.operators.php]
 - (Операторы)[http://www.php.su/learnphp/operators/]
+- (Типы данных)[https://www.programulin.ru/php-manual/data-types-casts]
 
 [Урок №2]
 - ()[]
